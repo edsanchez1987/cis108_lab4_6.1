@@ -1,0 +1,4 @@
+﻿  LAB4_6.1.cpp
+C:\Users\Eduardo\source\repos\LAB4_6.1\LAB4_6.1\LAB4_6.1.cpp(15,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eduardo\source\repos\LAB4_6.1\LAB4_6.1\LAB4_6.1.cpp(34,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LAB4_6.1.vcxproj -> C:\Users\Eduardo\source\repos\LAB4_6.1\Debug\LAB4_6.1.exe
